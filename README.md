@@ -1,5 +1,7 @@
 # repo-tour
 
+> **Note:** repo-tour is part of the [CodeAtlas](https://github.com/mastaan66/codeatlas) hackathon submission (`agent-skill/` there, history preserved). This repo remains the standalone mirror for installing just the skill.
+
 [![CI](https://github.com/mastaan66/repo-tour/actions/workflows/ci.yml/badge.svg)](https://github.com/mastaan66/repo-tour/actions/workflows/ci.yml)
 
 **An agent skill that turns any codebase into an onboarding experience — powered by Graphify's knowledge graph and a local open-weight Gemma model.**
